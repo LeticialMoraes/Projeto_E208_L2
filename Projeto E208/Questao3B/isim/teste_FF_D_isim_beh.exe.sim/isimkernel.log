@@ -1,0 +1,10 @@
+Command line:
+   teste_FF_D_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  53548
+
+Sat Nov 30 21:59:38 2024
+
+
+ Elaboration Time: 0.046875 sec

@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "C:/Users/tko18/Desktop/Projeto E208/Questao3A/test_FFT_isim_beh.exe" -prj "C:/Users/tko18/Desktop/Projeto E208/Questao3A/test_FFT_beh.prj" "work.test_FFT" 

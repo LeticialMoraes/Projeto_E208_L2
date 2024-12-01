@@ -1,0 +1,29 @@
+Command line:
+   test_FFT_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  54195
+
+Sat Nov 30 22:14:27 2024
+
+
+ Elaboration Time: 0.046875 sec
+
+ Current Memory Usage: 5150.19 Meg
+
+ Total Signals          : 9
+ Total Nets             : 5
+ Total Signal Drivers   : 5
+ Total Blocks           : 3
+ Total Primitive Blocks : 2
+ Total Processes        : 4
+ Total Traceable Variables  : 8
+ Total Scalar Nets and Variables : 365
+Total Line Count : 25
+
+ Total Simulation Time: 0.046875 sec
+
+ Current Memory Usage: 5464.76 Meg
+
+Sat Nov 30 22:15:22 2024
+

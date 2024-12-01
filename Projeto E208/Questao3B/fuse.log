@@ -1,0 +1,19 @@
+Running: C:\Xilinx\14.7\ISE_DS\ISE\bin\nt64\unwrapped\fuse.exe -intstyle ise -incremental -o C:/Users/tko18/Desktop/Projeto E208/Questao3B/teste_FF_D_isim_beh.exe -prj C:/Users/tko18/Desktop/Projeto E208/Questao3B/teste_FF_D_beh.prj work.teste_FF_D 
+ISim P.20131013 (signature 0x7708f090)
+Number of CPUs detected in this system: 4
+Turning on mult-threading, number of parallel sub-compilation jobs: 8 
+Determining compilation order of HDL files
+Parsing VHDL file "C:/Users/tko18/Desktop/Projeto E208/Questao3B/FF_D.vhd" into library work
+Parsing VHDL file "C:/Users/tko18/Desktop/Projeto E208/Questao3B/teste_FF_D.vhd" into library work
+Starting static elaboration
+Completed static elaboration
+Compiling package standard
+Compiling package std_logic_1164
+Compiling architecture behavioral of entity FF_D [ff_d_default]
+Compiling architecture behavior of entity teste_ff_d
+Time Resolution for simulation is 1ps.
+Waiting for 1 sub-compilation(s) to finish...
+Compiled 5 VHDL Units
+Built simulation executable C:/Users/tko18/Desktop/Projeto E208/Questao3B/teste_FF_D_isim_beh.exe
+Fuse Memory Usage: 29884 KB
+Fuse CPU Usage: 671 ms

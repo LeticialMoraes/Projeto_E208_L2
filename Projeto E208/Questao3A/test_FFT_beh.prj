@@ -1,0 +1,2 @@
+vhdl work "FF_T.vhd"
+vhdl work "test_FFT.vhd"
